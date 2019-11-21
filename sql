@@ -8,7 +8,7 @@
 -- to September 1996 (the previous month where there were sales):
 -- So if there were 27 units sold in November and 20 in September, the resulting 
 -- difference should be 27-7 = 7.
--- (Tomorrow we will work towards filling in the missing months.)
+-- (Later on we will work towards filling in the missing months.)
 
 -- BIG HINT: Look at the expected results, how do you convert the dates to the 
 -- correct format (year and month)?
